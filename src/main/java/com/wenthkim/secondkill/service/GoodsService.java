@@ -24,7 +24,7 @@ public class GoodsService {
     private GoodsDetailDAO goodsDetailDAO;
     @Resource
     private GoodsParamDAO goodsParamDAO;
-    //view -> controller -> service -> dao
+
     public Goods getGoods(Long goodsId) {
         return goodsDAO.findById(goodsId);
     }

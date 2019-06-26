@@ -1,5 +1,8 @@
 package com.wenthkim.secondkill.entity;
 
+/**
+ * 商品参数
+ */
 public class GoodsParam {
     private Long gpId;
     private String gpParamName;

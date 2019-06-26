@@ -1,5 +1,8 @@
 package com.wenthkim.secondkill.entity;
 
+/**
+ * 商品
+ */
 public class Goods {
     private Long goodsId;
     private String title;

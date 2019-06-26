@@ -1,5 +1,8 @@
 package com.wenthkim.secondkill.entity;
 
+/**
+ * 商品详情
+ */
 public class GoodsDetail {
     private Long gdId;
     private Long goodsId;
